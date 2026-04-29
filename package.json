@@ -1,5 +1,5 @@
 {
-  "name": "@signver/x10",
+  "name": "x10sible",
   "version": "1.0.0",
   "main": "./lib/index.js",
   "module": "./lib/index.js",

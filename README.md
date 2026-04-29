@@ -1,4 +1,4 @@
-# x10
+# x10sible
 
 Minimal framework for a plugin-like approach for your project.
 
